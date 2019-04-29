@@ -1,7 +1,7 @@
 CF Library Changelog
 ==========================
 ### v1.23
-* Too much stuff changed broke link with original Prism Library
+* Too much stuff changed broke link with original Library
 - Updating abraham/twitteroauth (0.7.4 => 1.0.1)         
   - Updating aws/aws-sdk-php (3.91.4 => 3.92.4)         
   - Updating symfony/yaml (v3.4.24 => v3.4.26)
