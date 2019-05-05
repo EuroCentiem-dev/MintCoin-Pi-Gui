@@ -1,2 +1,5 @@
 # 2019-05-04
 Initial release of the plugin
+needs to have crowdfunding_cron.php in root directory of platform
+
+sudo /usr/bin/php cli/crowdfunding_cron.php --notify
